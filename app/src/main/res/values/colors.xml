@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E53935</color>
+    <color name="colorPrimaryDark">#C62828</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <!--custom colors scheme-->
+    <color name="primary_text">#000000</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#BDBDBD</color>
+
+    <color name="edit_text_normal">#ccc</color>
+    <color name="my_switch_color">#ffffff</color>
+
+    <!--blood groups color-->
+    <color name="a_plus">#BA68C8</color>
+    <color name="b_plus">#009688</color>
+    <color name="ab_plus">#2196F3</color>
+    <color name="o_plus">#ffa726</color>
+    <color name="a_minus">#795548</color>
+    <color name="b_minus">#607D8B</color>
+    <color name="ab_minus">#FF5722</color>
+    <color name="o_minus">#689F38</color>
+    <color name="no_color">#000000</color>
+</resources>

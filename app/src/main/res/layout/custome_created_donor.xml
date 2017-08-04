@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingTop="8dp"
+    android:layout_marginBottom="8dp"
+    app:cardElevation="4dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp">
+
+        <TextView
+            android:id="@+id/tv_blood_ic"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginLeft="16dp"
+            android:background="@drawable/circle"
+            android:gravity="center"
+            android:text="A+"
+            android:textColor="@color/white"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/tv_donor_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="72dp"
+            android:layout_marginRight="72dp"
+            android:ellipsize="marquee"
+            android:fontFamily="sans-serif"
+            android:maxLines="1"
+            android:text="Donor name"
+            android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+            android:textSize="16sp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:id="@+id/tv_donor_city"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_donor_name"
+            android:layout_marginLeft="72dp"
+            android:layout_marginRight="72dp"
+            android:fontFamily="sans-serif"
+            android:maxLines="1"
+            android:textSize="16sp"
+            android:text="Donor city"/>
+
+        <TextView
+            android:id="@+id/tv_donor_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_donor_city"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="72dp"
+            android:layout_marginRight="72dp"
+            android:ellipsize="marquee"
+            android:maxLines="1"
+            android:text="Address not given"/>
+
+        <ImageView
+            android:id="@+id/textViewOptions"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="16dp"
+            android:background="@drawable/phone_effect"/>
+
+        <TextView
+            android:id="@+id/tv_last_donated"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_donor_address"
+            android:layout_marginLeft="72dp"
+            android:layout_marginRight="72dp"
+            android:text="Last donation not given"/>
+
+
+        <TextView
+            android:id="@+id/tv_free_paid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_last_donated"
+            android:layout_marginLeft="72dp"
+            android:layout_marginRight="72dp"
+            android:text="Free or Paid"/>
+        <TextView
+            android:id="@+id/tv_org_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_free_paid"
+            android:layout_marginLeft="72dp"
+            android:layout_marginRight="72dp"
+            android:text="organization name"/>
+
+        <TextView
+            android:id="@+id/tv_active"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_org_name"
+            android:background="@color/divider"
+            android:gravity="center_horizontal"
+            android:text="True/False"/>
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

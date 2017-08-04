@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\5151132f9e41f7cb9bc3c996c4ff7a02a1adc45d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbbba1fc0f6c51382c3fa1f9223d1f6f9144f359">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_163f5ae96ca83e807fe00be95f54114b72a7d818.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\75860d8939548542e596ddb24a0d929c3ff7034d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86e2c2399cfd7f8271b535b0e7d8ec092d0c6335">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_8af7aa777ff892ead4c33afa6cc95809be0730f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\544c3c27ff73784e44e9e8ec82f0d2c463bc4069\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86baa7d1051901fc1b8e7f596732f71f32175bde">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_677130d1f620ce8a250e5bac738ccf8ed9ecd802.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\c26371e1a39d76349b468e5a6f0f1c8bccb89dfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4262bcd49b19d558c241bf8c68470fcc6fa1ac84">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_95fc58e99c7b28e6d5e41761dd4967228358049d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3ca2edce5b7c4bfd457405f1cb0a98dfb2b12b12\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\d1190b3c43ce949a04afb08a69df497f753e6842\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e8c74e789b51b9da4070aeaed71bae36c3d244f">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_b0d17b985fa657dd75fe9d1fc58c8ed212771a1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\452e3e4e94658d7b93d6bf9e8f5d8e1aedeac3a4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9a6350134db98fb39e212ddca5f0bad9280e8f3f">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_95187e6cd7250dd9410946532aec83a9024c013e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\6dd6951e13c648bb4326dbcb988262ded015ec8f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2c1d9fbe7d2f686b3dcdbc3f63a983a211401ca3">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_05595ee64806844836a3d4a01f56a25f9ebd24c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\698900dcc5c21d3114555ac447bc12346d1713b4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2737331564e0084fc0eb30ba500564a6dbe5e98f">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_f2b4c9872449fd54b0909b5ae2b57caa955a71e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\1e1f1368d3b0f0c74bc78ad7a07cba9d9887a2bd\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="474cccf169297d49fff89fd35b7634a7a9d1031c">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_865e831cc8f1a1d127a44a2e1ff6ae297196cf14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\e3d4a1f65ca164da7609a7a7624dd3a9e1644d79\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a2d9cd43adbe7599a78f2293273a77881c1909a">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_6b33fe4ba149c7a66335059cf63bd9bd4b269d96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\800b135772c6eb272aada0721632731c12a4af1f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4e0e33103f4ad09e67d3d508585e4a70fe96f86">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_f8875de263ea49773c0bff0587e4a54e36efd495.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\ed4008079e43a4fc7428cdf79dafe7cc5b05268f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3d07dfddc7c3c7547fb953847589d586f1e2077">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_8abc6a619dfa26abc9ae5dadc05665df3e990548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\ce5f6cdf39a7c844072b5fbb16f6b2e295341d87\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3560fc891bbecd8982acbace15ccead59c3fedd1">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_d789f96c3fc11bff99e6fec25b255b69854fa396.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\d73cc8ab21860a78c1440c0b7e831d4e7bb63805\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc5624185d414a0f572bfb3df7d841ceb335aef9">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_b238cc9a3f5f3ea11e015e245d073db7dcbea4bb.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca8efb2a09aed8acf079ffb1cde204d81d90eae3">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a792a0edb2b5bc6da12cc66606f9c5d93c23f934\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\0e926ab1af61f0de49bc885319ad745587cb0759\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a71be5f29a1c1e3fd3e84472742668f101a5b936">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_aad0b93682017c8282709fd7c7b23d30d632882a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Minhaj\.android\build-cache\6838232baf08fcb3ecfaa7f7d883f4378b3b8cf9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4802b21cc23549f7eba5edb802241091ad998b35">
+        <dex dex="E:\WORKSPACE\Elaaj\Elaaj1\app\build\intermediates\pre-dexed\debug\classes_e021de089be6f49b9087380e6f7d65f0bfcb1288.jar" />
+    </item>
+
+</items>

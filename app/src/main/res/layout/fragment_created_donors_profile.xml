@@ -1,0 +1,11 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.minhajlib.elaaj1.FragmentCreatedDonorsProfile">
+
+    <!-- TODO: Update blank fragment layout -->
+    <include layout="@layout/custome_create_donor_profile"
+        android:id="@+id/profile"/>
+
+</FrameLayout>

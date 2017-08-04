@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Elaaj1</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="facebook_application_id" translatable="false">196528237524680</string>
+    <string name="msg_after_become_donor">you are now our donor</string>
+    <string name="msg_no_internet">no internet connection</string>
+    <string name="msg_some_error">some error</string>
+    <string name="msg_sign_out">you are signed out</string>
+    <string name="msg_sign_in_first">please signed in first</string>
+    <string name="msg_already_donor">your are already donor</string>
+    <string name="msg_sign_stop">sign in not complete</string>
+    <string name="msg_added_in_follow_up">donor is added into follow up</string>
+    <string name="msg_error">something went wrong</string>
+    <string name="msg_sign_in_must">you must sign in</string>
+    <string name="guest">guest</string>
+    <string name="email">someguest@email.com</string>
+    <string name="offline">data store offline</string>
+    <string name="msg_offline">save offline. please turn on internet to upload</string>
+    <string name="msg_empty_fields">fields must not empty</string>
+    <string name="msg_upload_first">please first upload picture</string>
+    <string name="sign_in_first">please sign in first</string>
+    <string name="no_donor_found">No Donor Found Of This Blood Group</string>
+    <string name="make_donor">Make Donor</string>
+    <string name="select_blood_group">Select Blood Group</string>
+    <string name="select_city">City</string>
+    <string name="number">Number</string>
+    <string name="address">Address</string>
+    <string name="time_available">Time Available</string>
+    <string name="last_date_donated">Last Date Donated</string>
+    <string name="donate_paid">Donate paid?</string>
+    <string name="link_to_organization">Link To Organization</string>
+    <string name="donor_name">Donor Name</string>
+    <string name="msg_signin_success">sign in successful</string>
+    <string name="msg_signin_failed">sign in failed</string>
+    <string name="error_fill_name">Must fill name</string>
+    <string name="error_number">Must provide number</string>
+    <string name="msg_save_offline">data save offline</string>
+    <string name="select_bg">Blood Group</string>
+    <string name="add_fav">Added in favorites</string>
+    <string name="now_donor">You are now donor</string>
+    <string name="msg_success_update">Update Successfully</string>
+    <string name="msg_update">Update Successful</string>
+    <string name="nowDonor">You are now donor</string>
+    <string name="msg_uploading">Please Wait...</string>
+    <string name="change_cover_photo">Change Cover Photo</string>
+    <string name="signin_google">Sign In With Google</string>
+    <string name="price">Price : Free</string>
+    <string name="msg_success_upload">upload successful</string>
+    <string name="error_upload">Upload failed</string>
+    <string name="error_update">Update Failed</string>
+    <string name="msg_wait">please wait...</string>
+
+    <string-array name="blood_groups">
+        <item>All</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="cities">
+        <item>All</item>
+        <item>Bahawalpur</item>
+        <item>Multan</item>
+    </string-array>
+
+    <string-array name="blood_group">
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+        <item>O+</item>
+        <item>O-</item>
+    </string-array>
+
+    <string-array name="city">
+        <item>Bahawalpur</item>
+        <item>Multan</item>
+    </string-array>
+</resources>

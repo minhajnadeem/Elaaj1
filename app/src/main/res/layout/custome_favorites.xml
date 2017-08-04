@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="8dp"
+    android:layout_marginBottom="8dp"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/tv_blood_ic"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_marginLeft="8dp"
+        android:background="@drawable/circle"
+        android:gravity="center"
+        android:text="A+"
+        android:textColor="@color/white"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:id="@+id/tv_donor_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="72dp"
+        android:ellipsize="marquee"
+        android:fontFamily="sans-serif"
+        android:maxLines="1"
+        android:text="Donor name"
+        android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+        android:textSize="16sp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/tv_donor_city"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_donor_name"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="72dp"
+        android:fontFamily="sans-serif"
+        android:maxLines="1"
+        android:textSize="16sp"
+        android:text="Donor city"/>
+
+    <TextView
+        android:id="@+id/tv_donor_address"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_donor_city"
+        android:layout_gravity="center_vertical"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="72dp"
+        android:ellipsize="marquee"
+        android:maxLines="1"
+        android:text="Address not given"/>
+
+    <TextView
+        android:id="@+id/textViewOptions"
+        android:layout_width="24dp"
+        android:layout_height="24dp"
+        android:padding="24dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="16dp"
+        android:background="@drawable/ic_dustbin"
+        android:gravity="center"
+        android:textAppearance="?android:textAppearanceLarge"/>
+
+    <TextView
+        android:id="@+id/tv_last_donated"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_donor_address"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="72dp"
+        android:text="Last donation not given"/>
+
+    <TextView
+        android:id="@+id/tv_free_paid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_last_donated"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="72dp"
+        android:text="Free or Paid"/>
+
+    <TextView
+        android:id="@+id/tv_org_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/tv_free_paid"
+        android:layout_marginLeft="64dp"
+        android:layout_marginRight="72dp"
+        android:layout_marginBottom="8dp"
+        android:text="Organization name"/>
+
+    <ImageView
+        android:id="@+id/iv_call_made"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="Last Called"
+        android:textSize="12sp"
+        android:layout_marginRight="16dp"
+        android:visibility="invisible"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_below="@+id/tv_org_name"
+        android:background="#ccc"/>
+</RelativeLayout>
+

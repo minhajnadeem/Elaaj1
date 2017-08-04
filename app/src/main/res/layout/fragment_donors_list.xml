@@ -1,0 +1,74 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:context="com.example.minhajlib.elaaj1.FragmentDonorsList">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/rv_donors_list"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:scrollbars="vertical"
+            android:layout_marginLeft="8dp"
+            android:layout_marginRight="8dp">
+
+        </android.support.v7.widget.RecyclerView>
+
+        <LinearLayout
+            android:id="@+id/spinner_container"
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal"
+            android:layout_margin="8dp"
+            android:background="@drawable/btn_round_corner">
+
+            <TextView
+                android:id="@+id/btn_select_blood"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="Blood Group"
+                android:gravity="center"
+                android:textColor="@color/white"/>
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:layout_marginTop="6dp"
+                android:layout_marginBottom="6dp"
+                android:background="@color/divider"/>
+
+            <TextView
+                android:id="@+id/btn_select_city"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="City"
+                android:gravity="center"
+                android:textColor="@color/white"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/tv_no_donor_found"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/divider"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/no_donor_found"
+        android:textColor="@color/white"
+        android:padding="6dp"
+        android:textSize="14sp"
+        android:visibility="gone"/>
+</FrameLayout>
